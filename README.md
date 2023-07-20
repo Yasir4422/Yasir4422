@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yasir4422
 - 👀 I’m interested in learningnew things
-- 🌱 I’m currently learning Big Data
+- 🌱 Working as a Big-Data Admin
 - 📫 How to reach me syedyaser3939@gmail.com
 
 <!---
